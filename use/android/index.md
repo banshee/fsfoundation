@@ -6,7 +6,11 @@ headline: Use F# for Android Development
 
 ### Option 1: Build Android Apps using F# + Xamarin Tools 
 
-![logo](/images/thumbs/xamarin-studio.png)&nbsp;![logo](/images/thumbs/vstudio.png)&nbsp;[Xamarin](http://xamarin.com) provide F# tools for  Android and iOS modile development with F#, using either Xamarin Studio or Microsoft Visual Studio.
+# Microsoft Windows
+
+![logo](/images/thumbs/vstudio.png)&nbsp;[Xamarin](http://xamarin.com) provide F# tools for Android and iOS mobile development with F# using Microsoft Visual Studio.
+
+# OSX
 
 1. Get the [Visual F# tools for Windows](/use/windows) or [F# Tools for Mac](/use/mac). 
 
